@@ -8,7 +8,7 @@ Welcome to the central engineering hub for **@shadow.script**. This repository s
 
 | Project Directory | Description | Status |
 | :--- | :--- | :--- |
-| [📁 File Organizer](./file%20orginezer/) | Autonomous workspace and file structure optimizer. | ✔️ Operational |
+| [📁 File Organizer](./File%20Orginezer/) | Autonomous workspace and file structure optimizer. | ✔️ Operational |
 
 ---
 <p align="center">
