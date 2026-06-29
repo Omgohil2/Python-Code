@@ -21,8 +21,7 @@ While the shell engine is active, pass these specialized command keywords into t
 
 | System Command | Action Handled | Output Behavior |
 | --- | --- | --- |
-| `history` | Reads local runtime transaction blocks | Outputs text logs containing previous math sessions |
-| `clear` | Wipes the active tracking logs | Deletes the local `history.log` file from disk |
+
 | `exit` | Shuts down engine loop immediately | Safely closes terminal process stream |
 
 ---
