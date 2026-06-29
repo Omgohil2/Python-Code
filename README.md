@@ -1,7 +1,6 @@
-
 # ⚡ SHADOW.SCRIPT // PYTHON-CODE
 
-Welcome to the central engineering hub for **@shadow.script**. This repository serves as a production-ready ecosystem of clean backend logic, automation utilities, and scripting frameworks.
+Welcome to the central engineering hub for **@shadow.script**. This repository serves as an ecosystem of clean backend logic, automation utilities, and scripting frameworks.
 
 ---
 
@@ -9,14 +8,7 @@ Welcome to the central engineering hub for **@shadow.script**. This repository s
 
 | Project Directory | Description | Status |
 | :--- | :--- | :--- |
-| [📁 Directory-Organizer](./Directory-Organizer/) | Autonomous workspace and file structure optimizer. | ✔️ Operational |
-
----
-
-## 💻 Global Environment Requirements
-
-* **Runtime:** Python 3.8+
-* **Dependencies:** Optimized using native Python binaries where possible to ensure zero setup overhead.
+| [📁 File Organizer](./file%20orginezer/) | Autonomous workspace and file structure optimizer. | ✔️ Operational |
 
 ---
 <p align="center">
