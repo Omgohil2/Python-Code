@@ -9,6 +9,8 @@ Welcome to the central engineering hub for **@shadow.script**. This repository s
 | Project Directory | Description | Status |
 | :--- | :--- | :--- |
 | [📁 File Organizer](./File%20Organizer/) | Autonomous workspace and file structure optimizer. | ✔️ Operational |
+| [📁 Advanced Calculator](./Advanced%20Calculator/) | Terminal-based calculation engine with automated transaction     
+  logging. | 🛠️ In Development |
 
 ---
 <p align="center">
